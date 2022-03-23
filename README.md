@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coading
 - 🌱 I’m currently learning ...Web Develoment 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...Vsinghrawat6@gmail.com
 
 <!---
 vsinghrawat/vsinghrawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
